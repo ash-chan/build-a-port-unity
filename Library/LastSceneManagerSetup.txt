@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Boon's/Scenes/DeliveryDash.unity
+- path: Assets/sliding-minigame/Scenes/SlidingMinigame1.unity
   isLoaded: 1
   isActive: 1

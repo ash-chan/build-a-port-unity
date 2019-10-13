@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{35EEB15B-1DB2-3B96-E254-86F71A8CC3E3}</ProjectGuid>
+    <ProjectGuid>{C90473C7-84CD-C8E6-1CAA-D35B704F80A6}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -51,67 +51,67 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Ashley&apos;s\Scripts\AudioScript.cs" />
-     <Compile Include="Assets\Ashley&apos;s\Scripts\DestroyRubble.cs" />
-     <Compile Include="Assets\Ashley&apos;s\Scripts\TheStack.cs" />
-     <Compile Include="Assets\Ashley&apos;s\Scripts\ToPortAfterStack.cs" />
-     <Compile Include="Assets\Ashley&apos;s\Scripts\toStackGame.cs" />
-     <Compile Include="Assets\Boon&apos;s\Scripts\CameraMovement.cs" />
-     <Compile Include="Assets\Boon&apos;s\Scripts\CarCollision.cs" />
-     <Compile Include="Assets\Boon&apos;s\Scripts\DestoryObs.cs" />
-     <Compile Include="Assets\Boon&apos;s\Scripts\EndScreen.cs" />
-     <Compile Include="Assets\Boon&apos;s\Scripts\HumanMovement.cs" />
-     <Compile Include="Assets\Boon&apos;s\Scripts\InsScreen.cs" />
-     <Compile Include="Assets\Boon&apos;s\Scripts\ObsGen.cs" />
-     <Compile Include="Assets\Boon&apos;s\Scripts\ObsRegen.cs" />
-     <Compile Include="Assets\Boon&apos;s\Scripts\PlayerMovement.cs" />
-     <Compile Include="Assets\Boon&apos;s\Scripts\TerrainGen.cs" />
-     <Compile Include="Assets\Bun&apos;s\Scripts\ButtonScript.cs" />
-     <Compile Include="Assets\Bun&apos;s\Scripts\Helper.cs" />
-     <Compile Include="Assets\Bun&apos;s\Scripts\MenuScene.cs" />
-     <Compile Include="Assets\Bun&apos;s\Scripts\PreLoader.cs" />
-     <Compile Include="Assets\Bun&apos;s\Scripts\SaveManager.cs" />
-     <Compile Include="Assets\Bun&apos;s\Scripts\SaveState.cs" />
-     <Compile Include="Assets\Bun&apos;s\Scripts\ShopMenuScene.cs" />
-     <Compile Include="Assets\Sipei&apos;s\ASHLEY PREFAB\BoxesAppear.cs" />
-     <Compile Include="Assets\Sipei&apos;s\ASHLEY PREFAB\ClickDetect.cs" />
-     <Compile Include="Assets\Sipei&apos;s\ASHLEY PREFAB\DestroyBlueCrate.cs" />
-     <Compile Include="Assets\Sipei&apos;s\ASHLEY PREFAB\DestroyBrownCrate.cs" />
-     <Compile Include="Assets\Sipei&apos;s\ASHLEY PREFAB\DestroyGreenCrate.cs" />
-     <Compile Include="Assets\Sipei&apos;s\ASHLEY PREFAB\DestroyPurpleCrate.cs" />
-     <Compile Include="Assets\Sipei&apos;s\ASHLEY PREFAB\DestroyRedCrate.cs" />
-     <Compile Include="Assets\Sipei&apos;s\GrassRoadRace\Script\CameraMove.cs" />
-     <Compile Include="Assets\Sipei&apos;s\Scripts\AudioManager.cs" />
-     <Compile Include="Assets\Sipei&apos;s\Scripts\AudioManagerCheck.cs" />
-     <Compile Include="Assets\Sipei&apos;s\Scripts\CrateTower.cs" />
-     <Compile Include="Assets\Sipei&apos;s\Scripts\Delivery_Dash_Notification.cs" />
-     <Compile Include="Assets\Sipei&apos;s\Scripts\EvacuateTheCrate.cs" />
-     <Compile Include="Assets\Sipei&apos;s\Scripts\LoadNotifs.cs" />
-     <Compile Include="Assets\Sipei&apos;s\Scripts\Money.cs" />
-     <Compile Include="Assets\Sipei&apos;s\Scripts\MusicChangeVolume.cs" />
-     <Compile Include="Assets\Sipei&apos;s\Scripts\SwitchMusicOnLoad.cs" />
-     <Compile Include="Assets\Zac&apos;s\Scripts\bottomWall.cs" />
-     <Compile Include="Assets\Zac&apos;s\Scripts\DragX.cs" />
-     <Compile Include="Assets\Zac&apos;s\Scripts\DragZ.cs" />
-     <Compile Include="Assets\Zac&apos;s\Scripts\Goal1_1.cs" />
-     <Compile Include="Assets\Zac&apos;s\Scripts\groundDown.cs" />
-     <Compile Include="Assets\Zac&apos;s\Scripts\leftWall.cs" />
-     <Compile Include="Assets\Zac&apos;s\Scripts\Reset.cs" />
-     <Compile Include="Assets\Zac&apos;s\Scripts\Reset2.cs" />
-     <Compile Include="Assets\Zac&apos;s\Scripts\Reset3.cs" />
-     <Compile Include="Assets\Zac&apos;s\Scripts\rightWall.cs" />
-     <Compile Include="Assets\Zac&apos;s\Scripts\Timer.cs" />
-     <Compile Include="Assets\Zac&apos;s\Scripts\toGame.cs" />
-     <Compile Include="Assets\Zac&apos;s\Scripts\ToPort.cs" />
-     <Compile Include="Assets\Zac&apos;s\Scripts\topWall.cs" />
-     <Compile Include="Assets\Zac&apos;s\Scripts\Touchable.cs" />
-     <Compile Include="Assets\Zac&apos;s\Scripts\unused\clickOn.cs" />
-     <Compile Include="Assets\Zac&apos;s\Scripts\unused\moveLeft.cs" />
-     <Compile Include="Assets\Zac&apos;s\Scripts\unused\moveRight.cs" />
-     <None Include="Assets\Sipei&apos;s\Shipping Container Environment\Readme.txt" />
-     <None Include="Assets\Sipei&apos;s\BrokenVector\FreeLowPolyPack\readme.txt" />
-     <None Include="Assets\Sipei&apos;s\Outline.shader" />
-     <None Include="Assets\Sipei&apos;s\Lo-detail_forklift\readme.txt" />
+     <Compile Include="Assets\crate-tower\Scripts\AudioScript.cs" />
+     <Compile Include="Assets\crate-tower\Scripts\DestroyRubble.cs" />
+     <Compile Include="Assets\crate-tower\Scripts\TheStack.cs" />
+     <Compile Include="Assets\crate-tower\Scripts\ToPortAfterStack.cs" />
+     <Compile Include="Assets\crate-tower\Scripts\toStackGame.cs" />
+     <Compile Include="Assets\delivery-dash\Scripts\CameraMovement.cs" />
+     <Compile Include="Assets\delivery-dash\Scripts\CarCollision.cs" />
+     <Compile Include="Assets\delivery-dash\Scripts\DestoryObs.cs" />
+     <Compile Include="Assets\delivery-dash\Scripts\EndScreen.cs" />
+     <Compile Include="Assets\delivery-dash\Scripts\HumanMovement.cs" />
+     <Compile Include="Assets\delivery-dash\Scripts\InsScreen.cs" />
+     <Compile Include="Assets\delivery-dash\Scripts\ObsGen.cs" />
+     <Compile Include="Assets\delivery-dash\Scripts\ObsRegen.cs" />
+     <Compile Include="Assets\delivery-dash\Scripts\PlayerMovement.cs" />
+     <Compile Include="Assets\delivery-dash\Scripts\TerrainGen.cs" />
+     <Compile Include="Assets\main\Scripts\ButtonScript.cs" />
+     <Compile Include="Assets\main\Scripts\Helper.cs" />
+     <Compile Include="Assets\main\Scripts\MenuScene.cs" />
+     <Compile Include="Assets\main\Scripts\PreLoader.cs" />
+     <Compile Include="Assets\main\Scripts\SaveManager.cs" />
+     <Compile Include="Assets\main\Scripts\SaveState.cs" />
+     <Compile Include="Assets\main\Scripts\ShopMenuScene.cs" />
+     <Compile Include="Assets\sliding-minigame\Scripts\bottomWall.cs" />
+     <Compile Include="Assets\sliding-minigame\Scripts\DragX.cs" />
+     <Compile Include="Assets\sliding-minigame\Scripts\DragZ.cs" />
+     <Compile Include="Assets\sliding-minigame\Scripts\Goal1_1.cs" />
+     <Compile Include="Assets\sliding-minigame\Scripts\groundDown.cs" />
+     <Compile Include="Assets\sliding-minigame\Scripts\leftWall.cs" />
+     <Compile Include="Assets\sliding-minigame\Scripts\Reset.cs" />
+     <Compile Include="Assets\sliding-minigame\Scripts\Reset2.cs" />
+     <Compile Include="Assets\sliding-minigame\Scripts\Reset3.cs" />
+     <Compile Include="Assets\sliding-minigame\Scripts\rightWall.cs" />
+     <Compile Include="Assets\sliding-minigame\Scripts\Timer.cs" />
+     <Compile Include="Assets\sliding-minigame\Scripts\toGame.cs" />
+     <Compile Include="Assets\sliding-minigame\Scripts\ToPort.cs" />
+     <Compile Include="Assets\sliding-minigame\Scripts\topWall.cs" />
+     <Compile Include="Assets\sliding-minigame\Scripts\Touchable.cs" />
+     <Compile Include="Assets\sliding-minigame\Scripts\unused\clickOn.cs" />
+     <Compile Include="Assets\sliding-minigame\Scripts\unused\moveLeft.cs" />
+     <Compile Include="Assets\sliding-minigame\Scripts\unused\moveRight.cs" />
+     <Compile Include="Assets\static\ASHLEY PREFAB\BoxesAppear.cs" />
+     <Compile Include="Assets\static\ASHLEY PREFAB\ClickDetect.cs" />
+     <Compile Include="Assets\static\ASHLEY PREFAB\DestroyBlueCrate.cs" />
+     <Compile Include="Assets\static\ASHLEY PREFAB\DestroyBrownCrate.cs" />
+     <Compile Include="Assets\static\ASHLEY PREFAB\DestroyGreenCrate.cs" />
+     <Compile Include="Assets\static\ASHLEY PREFAB\DestroyPurpleCrate.cs" />
+     <Compile Include="Assets\static\ASHLEY PREFAB\DestroyRedCrate.cs" />
+     <Compile Include="Assets\static\GrassRoadRace\Script\CameraMove.cs" />
+     <Compile Include="Assets\static\Scripts\AudioManager.cs" />
+     <Compile Include="Assets\static\Scripts\AudioManagerCheck.cs" />
+     <Compile Include="Assets\static\Scripts\CrateTower.cs" />
+     <Compile Include="Assets\static\Scripts\Delivery_Dash_Notification.cs" />
+     <Compile Include="Assets\static\Scripts\EvacuateTheCrate.cs" />
+     <Compile Include="Assets\static\Scripts\LoadNotifs.cs" />
+     <Compile Include="Assets\static\Scripts\Money.cs" />
+     <Compile Include="Assets\static\Scripts\MusicChangeVolume.cs" />
+     <Compile Include="Assets\static\Scripts\SwitchMusicOnLoad.cs" />
+     <None Include="Assets\static\Shipping Container Environment\Readme.txt" />
+     <None Include="Assets\static\BrokenVector\FreeLowPolyPack\readme.txt" />
+     <None Include="Assets\static\Outline.shader" />
+     <None Include="Assets\static\Lo-detail_forklift\readme.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2017.1.1f1/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
