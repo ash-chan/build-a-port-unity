@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7a9fd7940e7c44c4c9e079ceb2197465
+timeCreated: 1507266100
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - human: {fileID: 54499067845587734, guid: 281f62179a3605940951ea9d68dce228, type: 2}
+  - treeA: {fileID: 100000, guid: c156f39e6d4ee694f90c9915e2daa633, type: 2}
+  - treeB: {fileID: 100000, guid: 96a66580192deed4ea0082a631417d2f, type: 2}
+  - roadblock: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

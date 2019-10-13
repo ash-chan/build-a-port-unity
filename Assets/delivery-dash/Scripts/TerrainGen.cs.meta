@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 66c96511b8c4a1747aebe91e2176a5d7
+timeCreated: 1507964224
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - RoadGrassUnit: {fileID: 1265926475982664, guid: 239b3bb9d82f4b14894c04aa84abf201,
+      type: 2}
+  - human: {fileID: 54499067845587734, guid: 281f62179a3605940951ea9d68dce228, type: 2}
+  - treeA: {fileID: 100000, guid: c156f39e6d4ee694f90c9915e2daa633, type: 2}
+  - treeB: {fileID: 100000, guid: 96a66580192deed4ea0082a631417d2f, type: 2}
+  - roadblock: {fileID: 100000, guid: 86f783457a9659e41a99dc3147fefdba, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
