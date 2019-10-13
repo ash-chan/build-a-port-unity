@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Sipei's\ASHLEY PREFAB\BoxesAppear.cs">
+    <Files>
+      <File FileName="Assets\Sipei's\ASHLEY PREFAB\BoxesAppear.cs" Line="24" Column="35" />
+      <File FileName="Assets\Sipei's\ASHLEY PREFAB\DestroyRedCrate.cs" Line="8" Column="27" />
+      <File FileName="Assets\Sipei's\ASHLEY PREFAB\DestroyBlueCrate.cs" Line="8" Column="27" />
+      <File FileName="Assets\Sipei's\ASHLEY PREFAB\DestroyGreenCrate.cs" Line="8" Column="27" />
+      <File FileName="Assets\Sipei's\ASHLEY PREFAB\DestroyBrownCrate.cs" Line="8" Column="28" />
+      <File FileName="Assets\Sipei's\ASHLEY PREFAB\DestroyPurpleCrate.cs" Line="11" Column="2" />
+      <File FileName="Assets\Bun's\Scripts\SaveState.cs" Line="13" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

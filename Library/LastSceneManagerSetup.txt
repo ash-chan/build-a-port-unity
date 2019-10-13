@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Boon's/Scenes/DeliveryDash.unity
+  isLoaded: 1
+  isActive: 1

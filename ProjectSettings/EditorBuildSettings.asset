@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Bun's/Scenes/Preloader.unity
+    guid: ce0766482e56f40ddb35a9331d953e57
+  - enabled: 1
+    path: Assets/Bun's/Scenes/Menu.unity
+    guid: 164426d17f7d847799e11ed8c4bc1cc6
+  - enabled: 1
+    path: Assets/Sipei's/Scenes/Main scene final.unity
+    guid: f2c162361e66485499897426a78cf8df
+  - enabled: 1
+    path: Assets/Boon's/Scenes/DeliveryDash.unity
+    guid: 8a77443766812467aaae70d996aca522
+  - enabled: 0
+    path: Assets/Sipei's/Scenes/Notif_evacuate_the_crate.unity
+    guid: c2c2d83a1b26aa14ea7c6111aabcef83
+  - enabled: 1
+    path: Assets/Sipei's/Scenes/Notif_evacuate_the_crate 2.unity
+    guid: 92ac6e63e8a6947b0b3ddb11f3f544e4
+  - enabled: 1
+    path: Assets/Sipei's/Scenes/Notif_evacuate_the_crate3.unity
+    guid: 0fd8b22d2cd19be4a852671e65215960
+  - enabled: 1
+    path: Assets/Sipei's/Scenes/Notif_evacuate_the_crate 1.unity
+    guid: 6ed5bf3859d034680aa064fb7e37487d
+  - enabled: 1
+    path: Assets/Sipei's/Scenes/Notif_delivery_dash.unity
+    guid: cf520b2a214245d4ab37175775c7f343
+  - enabled: 1
+    path: Assets/Sipei's/Scenes/Notif_crate_tower.unity
+    guid: 494317706c5279542bf89f21e650e098
+  - enabled: 1
+    path: Assets/Zac's/SlidingMinigame1.unity
+    guid: 8c26deac9ed83c64cae009e006d0c2e5
+  - enabled: 1
+    path: Assets/Zac's/SlidingMinigame2.unity
+    guid: 28fe2785790bee0419d7e24e72a3392d
+  - enabled: 1
+    path: Assets/Zac's/SlidingMinigame3.unity
+    guid: ec4d87136145c034a91d597ae048a798
+  - enabled: 1
+    path: Assets/Ashley's/Scenes/CrateTower.unity
+    guid: 62755035956147247acf4625fb2b0773
+  - enabled: 1
+    path: Assets/Bun's/Scenes/ShopSceneFromPort.unity
+    guid: d414c1ae72de1472cba0f691c5bcfc06
