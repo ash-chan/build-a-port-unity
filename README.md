@@ -10,20 +10,16 @@ A port-themed unity game consisting of 3 minigames:
 
 This game was built and tested on **Unity version 2017.1.1f1** so for optimal performance, use that specific version.
 
-```
-Give examples
-```
-
 ### Installing
 
 Git clone from the root of this repository and add the whole directory as a new project in Unity.
 
 ## Playing the games
 
-To play each game, simply navigate to the corresponding Scenes folder in unity, select the game you wish to play and click the play button.
+To play each game within the Unity Application, simply navigate to the corresponding Scenes folder in unity, select the game you wish to play and click the play button.
 
 ```
-I.e. To play Crate Tower, navigate to "portgame/Assets/crate-tower/Scenes/CrateTower.unity
+I.e. To play Crate Tower, navigate to "portgame/Assets/crate-tower/Scenes/CrateTower and run the scene within.
 ```
 The 3 minigames are part of an overarching main game in which you earn coins to build a port. Have fun!
 
